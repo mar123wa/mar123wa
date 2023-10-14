@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm an Electrical Engineering Student.
-- 👨‍💻 As an Electrical Engineering student, I constantly learn and explore new things to improve my skills and determine my career.
+- 👨‍💻 I constantly learn and explore new things to improve my skills and determine my career.
 - 💬 Ask me about my experience with Robot preparation for specific tasks, Electrical vehicle car, Circuit design, Arduino setup, and C Programming Language.
 - ⚡ Fun Fact: I'm a competitions enthusiast, and my favourite hobby is seeing robots compete.
 - 👨‍💻 Check out my portfolio at https://
